@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Github User API</string>
+    <string name="user_details">User Details</string>
+    <string name="following">Following</string>
+    <string name="followers">Followers</string>
+    <string name="search_user">Search User</string>
+    <string name="change_language_settings">Change Language Settings</string>
+    <string name="user">User</string>
+    <string name="username">username</string>
+    <string name="network_not_available">Network connection is not available </string>
+    <string name="not_found">Not Found</string>
+</resources>
